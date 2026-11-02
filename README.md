@@ -31,4 +31,5 @@ Se aparecerem quadrados no lugar de letras acentuadas, use o zip `sem-acentos`.
 pip install UnityPy
 python -I -X utf8 tools/extract.py
 python -I -X utf8 tools/build.py        # gera out/base e out/dlc
+python -I -X utf8 tools/pack.py 1.0     # zips em dist/ (com e sem acentos)
 ```
