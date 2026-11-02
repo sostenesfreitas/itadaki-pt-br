@@ -1,0 +1,9 @@
+# patch inglês (fonte) e derivados — não versionar
+src/
+batches/
+units.json
+out/
+dist/
+pt/*.part*
+__pycache__/
+*.pyc

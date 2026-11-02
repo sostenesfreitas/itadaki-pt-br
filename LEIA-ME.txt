@@ -1,0 +1,32 @@
+================================================================
+ Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary
+ Tradução PT-BR (fã)  -  PS Vita, PCSG00932
+================================================================
+
+Feita sobre a tradução inglesa de fã v1.2 (github.com/fishyitadaki/itadakivitaeng).
+Este patch só substitui arquivos de texto; você precisa ter o jogo.
+
+IMPORTANTE: o jogo precisa estar na atualização 1.02.
+
+----------------------------------------------------------------
+INSTALAR - VITA DE VERDADE (rePatch reDux0)
+----------------------------------------------------------------
+1. Tenha o plugin "rePatch reDux0" instalado.
+2. Copie a pasta "PCSG00932" de "base" para ux0:rePatch/ (mesclar/sobrescrever).
+3. Se tiver a DLC de DQ11: copie a pasta "PCSG00932" de "dlc" para ux0:addcont/
+   (por cima da pasta ACCONVVITADQ11XX que já existe), sobrescrevendo.
+4. Feche o jogo por completo e abra de novo.
+
+----------------------------------------------------------------
+INSTALAR - VITA3K
+----------------------------------------------------------------
+1. Faça backup de ux0/app/PCSG00932/Media.
+2. Copie "base/PCSG00932" para ux0/app/ (mesclar/sobrescrever).
+3. DLC: copie "dlc/PCSG00932" para ux0/addcont/ (mesclar/sobrescrever).
+4. Abra o jogo.
+
+----------------------------------------------------------------
+PROBLEMAS
+----------------------------------------------------------------
+Se aparecerem quadrados ou letras faltando no lugar de ã, ç, é etc., avise:
+existe uma versão sem acentos.
